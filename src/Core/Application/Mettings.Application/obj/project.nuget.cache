@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUE3XvXl5cv7vgqJNO4d+9CbU6IxKJyvtbgKSIPSa3paiE+mReClDhu4VBsFR8mFxnaQyQPoIGVFw31WAvr7lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan Harold\\Documents\\Project\\CursoCSharp\\Web_Api_Mettings\\src\\Core\\Application\\Mettings.Application\\Mettings.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan Harold\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan Harold\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
